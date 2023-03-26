@@ -25,9 +25,9 @@ Result: The model can classify the given pictures with simple CNN models.
 ## Visualization
 As we can see the machine can classify the images between wolf and wolfdog.
 
-![result_1](https://github.com/CYLEE21/image_classification/blob/master/binary_classification/result_1.jpg?raw=true)
+![result_1](https://github.com/CYLEE21/image_classification/blob/master/binary_classification/result_1.JPG?raw=true)
 
 But there are something still can be improved, if the image is from some other types of wolf, the machine will be confused. This might be improved if we use more various types of wolf and wolfdog images to train the model. 
 
-![result_2](https://github.com/CYLEE21/image_classification/blob/master/binary_classification/result_2.jpg?raw=true)
+![result_2](https://github.com/CYLEE21/image_classification/blob/master/binary_classification/result_2.JPG?raw=true)
 
